@@ -18,7 +18,7 @@ gallery:
     image_path: /assets/images/FrentePortuario.png
 
 ---
-# SOBRE NOSOTROS
+# Sobre Nosotros
 
 Nuetra misión es promover el desarrollo económico, social y urbano de los terrenos mediante el manejo óptimo de todos los recursos. Tenemos como objetivos incentivar el desarrollo de la economía a través del uso eficiente y sustentable de los terrenos, salvaguardando la preservación de los valores históricos y naturales de la tierra.
 {% include gallery %}
