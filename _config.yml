@@ -28,7 +28,7 @@ baseurl: "" # the subpth of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-repository: admterrenosgit.github.io.git
+repository: admterrenosgit/admterrenosgit.github.io.git
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
