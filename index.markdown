@@ -15,7 +15,7 @@ excerpt: "Nuestra Visión es asegurar la conservación de los valores histórico
 intro: 
   - excerpt: 'Nuestra Misión es adquirir, vender, conservar, arrendar o desarrollar los terrenos necesarios para encauzar en ellos todo tipo de proyecto de desarrollo urbano, económico y social, tales como proyectos de vivienda, comercios, industrias, servicios públicos y de conservación del ambiente natural. Garantizar por medio de la creación de reservas, la disponibilidad de terrenos para su futuro desarrollo o conservación. Velar que se utilice la tierra de acuerdo con las políticas públicas establecidas sobre el uso y desarrollo compacto del suelo, nuestro recurso más valioso.'
 feature_row:
-  - image_path: assets/images/oig.jpg
+  - image_path: assets/images/OIG.jpg
     alt: "placeholder image 1"
     title: "OIG INFORMA"
     excerpt: "Cualquier ciudadano puede informar sobre irregularidades en el uso de fondos
