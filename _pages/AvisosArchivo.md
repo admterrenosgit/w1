@@ -19,7 +19,7 @@ gallery:
 toc: true
 ---
 
-# Avisos y Archivos
+
 
 * ###### [Solicitud de Empleo 2021]({{ site.url }}{{ site.baseurl }}/docs/solicituddeempleo2021.pdf)
 * ###### [Solicitud de Declaración y Aadquisición de Estorbo Público-Entidad]({{ site.url }}{{ site.baseurl }}/docs/SolDecAdquiEstorboPubAbril2022.pdf)
